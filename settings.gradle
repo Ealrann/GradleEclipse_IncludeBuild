@@ -1,0 +1,8 @@
+rootProject.name = "main.root"
+
+
+includeBuild 'subroot'
+
+include ':project.b'
+include ':project.c'
+

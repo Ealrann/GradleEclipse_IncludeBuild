@@ -1,0 +1,4 @@
+rootProject.name = "sub.root"
+
+
+include ':project.a'
